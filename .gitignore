@@ -1,0 +1,4 @@
+*.log
+.moonraker.conf.bkp
+octoeverywhere.conf
+octoeverywhere-system.cfg
